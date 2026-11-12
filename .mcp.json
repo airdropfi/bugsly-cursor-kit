@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "bugsly": {
+      "type": "http",
+      "url": "https://bugsly.dev/api/mcp",
+      "headers": {
+        "Authorization": "Bearer ${BUGSLY_TOKEN}"
+      }
+    }
+  }
+}

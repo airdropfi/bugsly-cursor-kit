@@ -1,0 +1,20 @@
+{
+  "name": "bugsly",
+  "description": "Read, search and triage the errors in your Bugsly projects from Cursor: stack traces, monitors, crash-free rate. Status changes only on request.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Bugsly",
+    "email": "hello@bugsly.dev"
+  },
+  "homepage": "https://bugsly.dev/agents",
+  "repository": "https://github.com/airdropfi/bugsly-cursor-kit",
+  "license": "MIT",
+  "keywords": [
+    "bugsly",
+    "error monitoring",
+    "error tracking",
+    "debugging",
+    "mcp"
+  ],
+  "logo": "assets/logo.png"
+}
