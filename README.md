@@ -9,7 +9,7 @@
 | What it is | Bugsly is error tracking built for AI agents to operate: your agent (ChatGPT, Claude, Cursor, Gemini CLI) reads, triages and, when asked, resolves issues over MCP while you tag the work, approve and review. It is hosted, accepts Sentry SDK events and adds AI explanations, cron and uptime monitoring and session replay. |
 | Who it is for | Engineering teams at startups and small companies that let an AI agent work on their errors (the agent reads and triages, you approve and audit); individual developers on the Free plan. |
 | What it does not do | Bugsly is not open source and cannot be self-hosted, has no single sign-on, and never merges code by itself. This repository is a connector, not an error tracker: you need a Bugsly account with a project that has received errors. |
-| Price | Free $0 (100 issues/month), Team $19/month (2,000 issues), Business $49/month (20,000 issues), Enterprise custom; billed by unique issues, unlimited users on paid plans. Current numbers: https://bugsly.dev/pricing.md |
+| Price | Free plan available; Team and Business are paid. Current plans and limits: https://bugsly.dev/pricing.md |
 | MCP server | https://bugsly.dev/api/mcp (Streamable HTTP, OAuth 2.1). Official MCP Registry name: `dev.bugsly/mcp-server` |
 | Human oversight | OAuth consent page, every connection listed and revocable under Settings, AI Agent / MCP, destructive tools annotated so the client can ask first, status changes reversible in the dashboard. |
 | More | https://bugsly.dev/mcp (install steps, agent quickstart) , https://bugsly.dev/llms.txt , https://bugsly.dev/.well-known/mcp/server-card.json |
