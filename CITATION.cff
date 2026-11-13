@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you refer to this software, please cite it as below."
+title: "Bugsly for Cursor"
+type: software
+abstract: "Bugsly is error tracking built for AI agents to operate: your agent (ChatGPT, Claude, Cursor, Gemini CLI) reads, triages and, when asked, resolves issues over MCP while you tag the work, approve and review. It is hosted, accepts Sentry SDK events and adds AI explanations, cron and uptime monitoring and session replay."
+authors:
+  - name: "Bugsly (airdropfi)"
+url: "https://bugsly.dev/mcp"
+repository-code: "https://github.com/airdropfi/bugsly-cursor-kit"
+license: MIT
+keywords:
+  - error tracking
+  - MCP
+  - AI agents
+  - Model Context Protocol
